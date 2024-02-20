@@ -2,13 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "https://media.licdn.com/dms/image/D5616AQHstoC1l4b9xw/profile-displaybackgroundimage-shrink_200_800/0/1692248955699?e=2147483647&v=beta&t=qZTzry5H2V-jzjl1djXfg2rjzgWZwyMhz1LISJPY0lY"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# About me 
+Hello! I'm Jacob and I'm a Cal Poly Pomona Student studying Computer Science. Aspiring to become a GRC Analyst and help automate some compliance tasks! 
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+My experiences include: 
+- Prev Security Intern @ Meraki and SCE doing security tooling
+- Prev IT Help desk Intern @ ViewSonic
+- Prev Software Engineer Intern @ Tepia Co
+- CCDC 2021 and 2022 Competitor 
+- CPTC Alternate 2021 
+- Hivestorm 11th and 8th place - Linux Specialist 
+- CCNA 200-301
+- GFACT 
