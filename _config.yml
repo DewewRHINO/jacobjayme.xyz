@@ -2,14 +2,12 @@
 baseurl: "/"
 url: "https://DewewRHINO.github.io"
 
-# THEME-SPECIFIC CONFIGURATION
-title: jacobjayme.xyz                                   # site's title
-description: "GRC, Cloud, Networking, and AI"      # used by search engines
-avatar: assets/img/favicon.ico                         # Empty for no avatar in navbar
-favicon: assets/img/favicon.ico                             # Icon displayed in the tab
+title: jacobjayme.xyz                                   
+description: "You like computers?"      
+avatar: assets/img/favicon.ico                         
+favicon: assets/img/favicon.ico                             
 
-# Header and footer text
-header_text: <code>jacobjayme.xyz</code>  # Change Blog header text
+header_text: <code>jacobjayme.xyz</code>  
 header_feature_image: yellow
 header_feature_image_responsive: true
 footer_text: >
