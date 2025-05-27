@@ -7,12 +7,12 @@ tags: [Page]
 ---
 
 # About me 
-Hello! I'm Jacob and I'm a Cal Poly Pomona Student studying Computer Science. Aspiring to become a GRC Analyst and help automate some compliance tasks! 
+Hello! I'm Jacob and I am currently a Security Engineer @ Cisco, as well as a Student studying Cybersecurity @ Georgia Tech!  
 
 My experiences include: 
-- Prev Security Intern @ Meraki and SCE doing security tooling
-- Prev IT Help desk Intern @ ViewSonic
-- Prev Software Engineer Intern @ Tepia Co
+- Prev Security Intern @ Meraki and SoCal Edison doing security tooling 
+- Prev IT Help desk Intern @ ViewSonic 
+- Prev Software Engineer Intern @ Tepia Co 
 - CCDC 2021 and 2022 Competitor 
 - CPTC Alternate 2021 
 - Hivestorm 11th and 8th place - Linux Specialist 
